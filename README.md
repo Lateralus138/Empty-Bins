@@ -4,16 +4,16 @@
 [EmptyBins 64Bit]()
 [EmptyBins Project Page]()
 ## About
-	Empty Bins is a command line utility that will scan all fixed partitions and 
+Empty Bins is a command line utility that will scan all fixed partitions and 
 hard drives for Recycle Bins ($Recycle.Bin) and empties them if populated. For 
 those that aren't aware; when you delete a file (non Shift) it moves to the
 recycle bin located at the root of whatever partition the file was located.
 ## Motivation
-	For people like me that have multiple storage partitions and hard drives this
+For people like me that have multiple storage partitions and hard drives this
 can be a slight task to empty 5 Recycle Bins (more or less) and so I wrote
 EmptyBins to automate this task.
 ##Usage
-	You can run EmptyBins in any manner you can run any other command line utility
+You can run EmptyBins in any manner you can run any other command line utility
 in Windows: Windows Cmd, any scripting program that can do the same, and start from
 'Run'.
 
@@ -88,7 +88,7 @@ I have tested on Windows 10 64 Bit
 Ian Pride @ faithnomoread@yahoo.com - [Lateralus138] @ New Pride Services 
 
 ## Icon
-![EmptyBins Icon](emptybins.png)
+![EmptyBins Icon](/emptybins.png)
 
 ## License
 
