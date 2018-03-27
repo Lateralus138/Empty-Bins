@@ -1,9 +1,9 @@
 # EmptyBins
 
 ## Current Release
-[EmptyBins 32Bit]()<br />
-[EmptyBins 64Bit]()<br />
-[EmptyBins Project Page]()
+[EmptyBins 32Bit](https://github.com/Lateralus138/Empty-Bins/releases/download/1.3.27.18/EmptyBins-32bit.exe)<br />
+[EmptyBins 64Bit](https://github.com/Lateralus138/Empty-Bins/releases/download/1.3.27.18/EmptyBins-64bit.exe)<br />
+[EmptyBins Project Page](https://github.com/Lateralus138/Empty-Bins)
 
 ## About
 Empty Bins is a command line utility that will scan all fixed partitions and 
