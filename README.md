@@ -87,6 +87,9 @@ I have tested on Windows 10 64 Bit
 
 Ian Pride @ faithnomoread@yahoo.com - [Lateralus138] @ New Pride Services 
 
+## Icon
+![EmptyBins Icon](emptybins.png)
+
 ## License
 
 	This program is free software: you can redistribute it and/or modify
