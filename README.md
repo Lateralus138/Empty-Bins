@@ -79,7 +79,7 @@ Sleep(time:=10){
 	DllCall("Sleep","UInt",time)
 	Return time
 }
-
+```
 ## Installation
 
 Portable program (Plans for installer and portable option).
