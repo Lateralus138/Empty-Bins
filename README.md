@@ -33,11 +33,11 @@ E.g.:
 ; E.g.:
 ;	TrayTip("Title","Text","BIG_INFO") == TrayTip("Title","Text",33)
 
-; 0			=	0	NULL
+; 0		=	0	NULL
 
-; 1			=	1	INFO
-; 2			=	2	WARN
-; 3			=	3	ERROR
+; 1		=	1	INFO
+; 2		=	2	WARN
+; 3		=	3	ERROR
 
 ; 16		=	16	NOSOUND
 
