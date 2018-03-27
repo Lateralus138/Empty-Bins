@@ -1,7 +1,7 @@
 # EmptyBins
 ## Current Release
-[EmptyBins 32Bit]()
-[EmptyBins 64Bit]()
+[EmptyBins 32Bit]()<br />
+[EmptyBins 64Bit]()<br />
 [EmptyBins Project Page]()
 ## About
 Empty Bins is a command line utility that will scan all fixed partitions and 
