@@ -1,8 +1,10 @@
 # EmptyBins
+
 ## Current Release
 [EmptyBins 32Bit]()<br />
 [EmptyBins 64Bit]()<br />
 [EmptyBins Project Page]()
+
 ## About
 Empty Bins is a command line utility that will scan all fixed partitions and 
 hard drives for Recycle Bins ($Recycle.Bin) and empties them if populated. For 
@@ -12,6 +14,7 @@ recycle bin located at the root of whatever partition the file was located.
 For people like me that have multiple storage partitions and hard drives this
 can be a slight task to empty 5 Recycle Bins (more or less) and so I wrote
 EmptyBins to automate this task.
+
 ##Usage
 You can run EmptyBins in any manner you can run any other command line utility
 in Windows: Windows Cmd, any scripting program that can do the same, and start from
@@ -22,6 +25,7 @@ E.g.:
 1. emptybins /info		- Run program with traytip/s info about program progress  
 1. emptybins /info 5000 - Same as above, but only stays up 5 seconds
 1. emptybins 5000 /info	- Params are interchangeable
+
 ## Example Code - My TrayTip() Function
 ```
 ; Below is a rough guide to my opt_array in the TrayTip function below
@@ -75,12 +79,14 @@ Sleep(time:=10){
 	DllCall("Sleep","UInt",time)
 	Return time
 }
+
 ## Installation
 
 Portable program (Plans for installer and portable option).
 
 
 ## Test
+
 I have tested on Windows 10 64 Bit
 
 ## Contributors
@@ -88,6 +94,7 @@ I have tested on Windows 10 64 Bit
 Ian Pride @ faithnomoread@yahoo.com - [Lateralus138] @ New Pride Services 
 
 ## Icon
+
 ![EmptyBins Icon](/emptybins.png)
 
 ## License
